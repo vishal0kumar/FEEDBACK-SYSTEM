@@ -1,0 +1,41 @@
+.top-bar{
+    background-color:red;
+    padding:1px;
+}
+.nav-fill{
+    background-color: whitesmoke;
+}
+.nav-fill a{
+    margin:3px;
+}
+.nav-fill li{
+
+}
+.tn{
+    padding: 5px;
+    display: inline;
+}
+#left_sidebar{
+    font-family: "Baskerville Old Face";
+    padding:5px;
+    height: 700px;
+    background-color: red;
+
+}
+#left_sidebar ul{
+    margin-left:20px;
+}
+#set {
+    padding:10px;
+     align:right;
+    margin-left: 40px;
+}
+.rating 
+{
+	color: aqua;
+	display:flex;
+}
+.rating input
+{
+	display:none;
+}
